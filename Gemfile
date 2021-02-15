@@ -4,7 +4,7 @@ ruby '2.5.3'
 gem 'bootsnap', require: false
 gem 'devise'
 gem 'jbuilder', '~> 2.0'
-gem 'pg', '~> 0.21'
+gem 'sqlite3', '~> 1.4'
 gem 'puma'
 gem 'rails', '6.0.0.rc1'
 gem 'redis'
